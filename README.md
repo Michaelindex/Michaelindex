@@ -5,7 +5,7 @@ Atualmente atuando como Analista de Infraestrutura Junior.
 
 Minhas Redes sociais: [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-santos-moreira-1000a6249/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/michaelsantos.lll/)
 
-![Michael GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelIndex&show_icons=true&theme=dracula)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelIndex&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Michael GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelIndex&show_icons=true&theme=dracula)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Tecnologias que estudo no meu dia a dia
