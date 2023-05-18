@@ -1,5 +1,3 @@
-<img alt="background" src="https://img.freepik.com/vetores-gratis/borda-abstrata-de-neon-em-um-fundo-roxo-escuro_53876-99055.jpg?w=740&t=st=1684378770~exp=1684379370~hmac=71dca197f98490589ab4e512eae93ce7d24d9f1aa3fad9442c831210eec13100" style="position:absolute; width:100vw; height:100vh; opacity:0.3">
-
 ### Olá! Eu sou o Michael Dos Santos 👋
 Atualmente atuando como Analista de Infraestrutura Junior.
 
